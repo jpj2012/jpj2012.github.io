@@ -4,3 +4,6 @@ h1 {
   font-weight:bold;
   font-family:mono-space
 }
+section h1 {
+  margin-bottom:5px;
+}
