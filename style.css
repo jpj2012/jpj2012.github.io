@@ -5,7 +5,7 @@
   font-family:monospace
 }
 .h2  {
-  margin-bottom:2px;
+  margin-bottom:0px;
 }
 .h2 + p {
   margin-top:2px;
