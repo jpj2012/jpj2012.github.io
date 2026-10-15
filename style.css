@@ -1,12 +1,12 @@
-h1 {
+.h1 {
   color:darkblue;
   font-size:30px;
   font-weight:bold;
   font-family:monospace
 }
-section h3  {
+.h3  {
   margin-bottom:2px;
 }
-section h3 + p {
+.h3 + p {
   margin-top:2px;
 }
