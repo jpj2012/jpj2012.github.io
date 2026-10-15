@@ -4,9 +4,9 @@
   font-weight:bold;
   font-family:monospace
 }
-.h3  {
+.h2  {
   margin-bottom:2px;
 }
-.h3 + p {
+.h2 + p {
   margin-top:2px;
 }
